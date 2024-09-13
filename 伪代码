@@ -1,0 +1,4 @@
+这两天在看哈佛CS50，了解了一些关于C语言的东西。
+其中让我印象最深刻的方法是，先写出“伪代码”，这是介于自然语言和编程语言之间的语言，它可以让我们梳理思路，知道自己要干什么，再转化为代码。
+I have been watching Harvard CS50 these days and learned some things about C language.
+The method that impressed me the most is to write "pseudocode" first, which is a language between natural language and programming language. It allows us to sort out our thoughts and know what we want to do, and then convert it into code.
